@@ -14,6 +14,10 @@ from vit_model import vit_base_patch16_224_in21k as create_model
 from utils import read_split_data, train_one_epoch, evaluate
 
 
+
+
+
+
 def main(args):
     device = torch.device(args.device if torch.cuda.is_available() else "cpu")
 
