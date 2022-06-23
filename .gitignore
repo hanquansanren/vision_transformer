@@ -1,6 +1,5 @@
 ##ignore this file##
 *.idea
-__pycache__
 *.zip
 *.tgz
 *.h5
@@ -15,6 +14,7 @@ __pycache__
 *.xml
 *.bin
 *.mapping
+__pycache__
 checkpoint
 data
 
